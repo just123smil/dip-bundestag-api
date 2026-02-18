@@ -1649,7 +1649,6 @@ components:
         bundesland:
           $ref: "#/components/schemas/Bundesland"
       required:
-      - "funktion"
       - "nachname"
       - "vorname"
     Ressort:
